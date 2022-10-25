@@ -68,7 +68,15 @@
 ////////////////////////////////
 // Yell at the Ninja Turtles
 ////////////////////////////////
+// let ninjaTurtles = ['Donatello', 'Leonardo', 'Raphael', 'Michaelangelo']
 
+// const callTurtles = () => {
+//     for (const element of ninjaTurtles){
+//         console.log(element.toUpperCase())
+
+//     }
+// }
+// console.log(callTurtles())
 
 ////////////////////////////////
 // Methods, Revisited
